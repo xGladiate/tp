@@ -7,11 +7,10 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "john-doe": "John Doe",
-        "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
-        "jean-doe": "Jean Doe",
-        "james-doe": "James Doe"
+        "alqasim-elyas-zuhair-a": "Alqasim Elyas Zuhair A",
+        "nicholas-chan": "Nicholas Chan",
+        "sharon-soh": "Sharon Soh",
+        "zhao-yiheng": "Zhao Yiheng"
       },
       "headingKeywords": {}
     },
@@ -136,8 +135,32 @@
       "headingKeywords": {}
     },
     {
-      "src": "team/johndoe.md",
-      "title": "John Doe's Project Portfolio Page",
+      "src": "team/alqasimelyaszuhaira.md",
+      "title": "Alqasim Elyas Zuhair A's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/kaajinn.md",
+      "title": "Nicholas Chan's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/sharonsoh.md",
+      "title": "Sharon Soh's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/zhaoyiheng.md",
+      "title": "Zhao Yiheng's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
       },
