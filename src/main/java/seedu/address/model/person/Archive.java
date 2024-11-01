@@ -41,9 +41,8 @@ public class Archive {
      * Returns true if a given string is a valid archive.
      */
     public boolean isArchived() {
-        return this.value.equals("true");
+        return Boolean.parseBoolean(this.value);
     }
-
 
     @Override
     public String toString() {
