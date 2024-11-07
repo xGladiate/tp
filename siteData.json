@@ -40,7 +40,7 @@
       "src": "DeveloperGuide.md",
       "title": "Developer Guide",
       "headings": {
-        "ab-3-developer-guide": "AB-3 Developer Guide",
+        "logilink-developer-guide": "LogiLink Developer Guide",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -51,7 +51,7 @@
         "storage-component": "Storage component",
         "common-classes": "Common classes",
         "implementation": "Implementation",
-        "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
+        "switching-window-views": "Switching window views",
         "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
@@ -117,6 +117,8 @@
         "locating-contacts-or-deliveries-by-name-find": "Locating contacts or deliveries by name: find",
         "archiving-a-contact-or-delivery-archive": "Archiving a contact or delivery : archive",
         "unarchive-a-contact-or-delivery-unarchive": "Unarchive a contact or delivery : unarchive",
+        "sorting-the-contacts-or-delivery-list-in-ascending-order-asort": "Sorting the contacts or delivery list in ascending order: asort",
+        "sorting-the-contacts-or-delivery-list-in-descending-order-dsort": "Sorting the contacts or delivery list in descending order: dsort",
         "deleting-a-contact-or-delivery-delete": "Deleting a contact or delivery : delete",
         "inspecting-a-contact-inspect": "Inspecting a contact : inspect",
         "clearing-all-entries-clear": "Clearing all entries : clear",
@@ -134,7 +136,7 @@
       "src": "index.md",
       "title": "",
       "headings": {
-        "addressbook-level-3": "AddressBook Level-3"
+        "logilink": "LogiLink"
       },
       "headingKeywords": {}
     },
