@@ -457,6 +457,9 @@ Certain changes you make to the file could cause LogiLink to behave unexpectedly
  - If you are using multiple screens and move the app to a secondary screen, then later switch to using only the primary screen, the app might open off-screen. 
  - To fix this, simply delete the `preferences.json` file created by the app, then restart the app.
 
+2. **When using `back` command in Main Window**
+ - If you are using `back` command in the Main Window, instead of throwing out a message `This command cannot be ran in the main window!`, a `Returned to Main Window` would be displayed instead, along with a successful command call. 
+
 --------------------------------------------------------------------------------------------------------------------
 
 ## Command summary
